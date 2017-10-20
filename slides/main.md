@@ -114,10 +114,18 @@ https://tensortalk.com/
 
 .center.img-66[ ![](images/tensortalk.png) ]
 
-
 ---
 
 ## Keras
+
+I recommend you to reproduce or rewrite open-source code.
+
+Intro to Deep Learning
+
+https://www.youtube.com/watch?v=t5qgjJIBy9g
+
+
+### Awesome projects
 
 https://github.com/eriklindernoren/Keras-GAN
 
